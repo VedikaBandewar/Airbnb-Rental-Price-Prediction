@@ -1,0 +1,61 @@
+id,name,neighbourhood,room_type,bedrooms,beds,accommodates,bathrooms,minimum_nights,number_of_reviews,availability_365,weekday_price,weekend_price,price
+105530,Private room in Suburb North,Suburb North,Private room,1.0,1.0,1,1.5,1,10.0,57,33.57,34.61,33.0
+100711,Entire home/apt in Suburb South,Suburb South,Entire home/apt,2.0,3.0,4,2.0,30,218.0,207,83.82,86.3,80.0
+102154,Private room in Suburb North,Suburb North,Private room,1.0,2.0,1,1.5,2,33.0,198,27.49,27.17,27.0
+101273,Entire home/apt in Midtown,Midtown,Entire home/apt,3.0,4.0,7,2.5,1,157.0,59,174.87,199.51,167.0
+102317,Private room in Harbour View,Harbour View,Private room,1.0,2.0,2,1.5,5,205.0,293,31.28,34.07,32.0
+102095,Entire home/apt in Suburb South,Suburb South,Entire home/apt,1.0,2.0,1,1.5,5,100.0,232,22.19,23.78,22.0
+103128,Private room in Downtown,Downtown,Private room,1.0,1.0,1,1.5,14,9.0,131,61.83,64.74,63.0
+100743,Entire home/apt in Suburb South,Suburb South,Entire home/apt,1.0,1.0,2,1.5,1,81.0,249,31.8,34.19,31.0
+100297,Private room in Suburb South,Suburb South,Private room,1.0,3.0,3,1.5,3,50.0,66,35.42,35.26,37.0
+103695,Entire home/apt in Suburb North,Suburb North,Entire home/apt,4.0,5.0,7,3.0,1,131.0,0,125.29,133.57,124.0
+101143,Private room in Suburb North,Suburb North,Private room,1.0,1.0,1,1.5,3,35.0,166,24.62,28.1,26.0
+100409,Private room in Downtown,Downtown,Private room,1.0,1.0,2,1.5,2,23.0,89,25.1,26.84,25.0
+105286,Entire home/apt in Downtown,Downtown,Entire home/apt,0.0,2.0,2,0.5,1,146.0,0,64.69,79.4,66.0
+103950,Entire home/apt in Old Town,Old Town,Entire home/apt,3.0,4.0,6,2.5,2,21.0,280,81.84,91.53,83.0
+101621,Entire home/apt in Harbour View,Harbour View,Entire home/apt,2.0,2.0,4,1.5,30,91.0,177,89.29,100.04,85.0
+102054,Private room in Suburb North,Suburb North,Private room,1.0,1.0,2,1.0,30,216.0,282,24.01,24.09,26.0
+105594,Private room in Downtown,Downtown,Private room,1.0,2.0,2,1.5,5,4.0,1,46.78,50.22,47.0
+105759,Entire home/apt in Harbour View,Harbour View,Entire home/apt,0.0,1.0,2,0.5,3,9.0,0,84.69,97.83,84.0
+100866,Entire home/apt in Suburb South,Suburb South,Entire home/apt,3.0,4.0,7,2.5,1,32.0,300,120.51,129.38,120.0
+100806,Private room in Harbour View,Harbour View,Private room,1.0,2.0,1,1.5,3,29.0,168,35.57,34.94,38.0
+100656,Entire home/apt in Old Town,Old Town,Entire home/apt,1.0,3.0,4,1.0,2,110.0,305,135.16,153.4,137.0
+104818,Private room in Midtown,Midtown,Private room,1.0,2.0,1,2.0,1,2.0,354,28.72,30.3,29.0
+102516,Entire home/apt in Suburb North,Suburb North,Entire home/apt,1.0,2.0,4,1.5,7,28.0,0,55.39,57.8,56.0
+105671,Entire home/apt in University District,University District,Entire home/apt,1.0,2.0,4,2.0,3,28.0,5,47.4,50.47,48.0
+100024,Private room in Suburb South,Suburb South,Private room,1.0,2.0,1,1.5,7,36.0,329,25.09,27.94,26.0
+101422,Entire home/apt in Midtown,Midtown,Entire home/apt,3.0,4.0,6,2.0,1,33.0,182,151.22,159.83,148.0
+105655,Entire home/apt in Old Town,Old Town,Entire home/apt,0.0,1.0,2,0.5,2,175.0,0,61.01,60.28,61.0
+105256,Entire home/apt in Suburb South,Suburb South,Entire home/apt,1.0,2.0,4,1.5,1,32.0,198,47.02,51.03,49.0
+104161,Entire home/apt in University District,University District,Entire home/apt,1.0,2.0,2,1.5,2,43.0,99,40.36,46.2,41.0
+101631,Entire home/apt in Midtown,Midtown,Entire home/apt,0.0,2.0,2,0.5,1,49.0,38,73.27,77.7,71.0
+102518,Entire home/apt in Harbour View,Harbour View,Entire home/apt,0.0,1.0,2,1.0,1,55.0,176,77.44,85.16,78.0
+103586,Private room in Suburb North,Suburb North,Private room,1.0,1.0,2,1.5,1,3.0,0,33.73,36.26,35.0
+102858,Hotel room in Midtown,Midtown,Hotel room,1.0,2.0,2,1.5,2,12.0,197,84.66,88.73,80.0
+105386,Entire home/apt in Suburb North,Suburb North,Entire home/apt,1.0,2.0,2,2.0,1,34.0,213,51.87,53.31,53.0
+105635,Entire home/apt in Downtown,Downtown,Entire home/apt,3.0,5.0,8,2.0,1,37.0,186,271.35,298.01,281.0
+104490,Private room in University District,University District,Private room,1.0,1.0,1,1.5,30,14.0,223,19.85,21.65,20.0
+104743,Entire home/apt in Suburb North,Suburb North,Entire home/apt,4.0,4.0,7,3.0,1,46.0,0,148.03,163.6,150.0
+102967,Entire home/apt in Old Town,Old Town,Entire home/apt,3.0,3.0,6,3.0,2,55.0,47,189.78,186.73,190.0
+102550,Private room in Old Town,Old Town,Private room,1.0,1.0,1,1.5,2,27.0,301,27.36,29.1,28.0
+101194,Entire home/apt in Suburb South,Suburb South,Entire home/apt,2.0,3.0,3,2.5,2,100.0,138,82.64,89.11,81.0
+100222,Entire home/apt in Midtown,Midtown,Entire home/apt,1.0,2.0,4,1.5,3,8.0,330,71.5,75.34,70.0
+101742,Entire home/apt in Harbour View,Harbour View,Entire home/apt,2.0,3.0,4,2.0,1,36.0,113,94.38,100.73,98.0
+104249,Entire home/apt in Harbour View,Harbour View,Entire home/apt,1.0,2.0,3,1.0,3,1.0,139,52.31,57.35,55.0
+104221,Private room in Harbour View,Harbour View,Private room,1.0,2.0,1,1.0,2,14.0,154,36.64,37.29,35.0
+101162,Entire home/apt in Airport Area,Airport Area,Entire home/apt,1.0,1.0,2,2.0,2,12.0,276,42.52,49.99,43.0
+101401,Entire home/apt in Midtown,Midtown,Entire home/apt,1.0,1.0,2,1.5,3,81.0,86,69.09,80.45,74.0
+105673,Entire home/apt in Old Town,Old Town,Entire home/apt,1.0,2.0,3,1.5,1,145.0,6,57.55,62.31,61.0
+104796,Entire home/apt in Harbour View,Harbour View,Entire home/apt,1.0,3.0,4,2.0,30,30.0,308,106.61,106.55,113.0
+100566,Private room in Airport Area,Airport Area,Private room,1.0,2.0,1,2.0,3,141.0,176,16.05,18.15,17.0
+100756,Entire home/apt in Harbour View,Harbour View,Entire home/apt,3.0,3.0,6,3.0,1,62.0,162,152.84,161.02,147.0
+102500,Entire home/apt in Midtown,Midtown,Entire home/apt,4.0,5.0,7,2.5,3,121.0,221,186.79,211.85,195.0
+103694,Entire home/apt in University District,University District,Entire home/apt,2.0,4.0,6,2.0,1,32.0,317,109.91,119.25,107.0
+101877,Private room in Old Town,Old Town,Private room,1.0,2.0,1,1.5,3,37.0,101,29.12,32.25,30.0
+100080,Private room in Suburb North,Suburb North,Private room,1.0,1.0,1,1.5,2,40.0,295,10.33,11.0,10.0
+102338,Entire home/apt in Old Town,Old Town,Entire home/apt,2.0,4.0,6,2.0,2,255.0,343,97.24,102.94,100.0
+105591,Entire home/apt in Midtown,Midtown,Entire home/apt,3.0,4.0,5,3.0,2,169.0,0,134.62,144.2,134.0
+100764,Private room in Downtown,Downtown,Private room,1.0,2.0,2,1.5,7,78.0,341,28.81,29.35,30.0
+101600,Private room in Old Town,Old Town,Private room,1.0,1.0,2,1.5,2,11.0,318,48.72,53.65,48.0
+102289,Entire home/apt in Harbour View,Harbour View,Entire home/apt,1.0,2.0,3,1.5,1,30.0,361,78.91,87.49,82.0
+105262,Private room in University District,University District,Private room,1.0,1.0,1,1.5,7,0.0,281,53.32,59.39,50.0
