@@ -60,7 +60,10 @@ def fit_price_distributions(prices: pd.Series) -> dict:
     x = x[x > 0].to_numpy()
     mu, sd = x.mean(), x.std(ddof=1)
     shape, loc, scale = stats.lognorm.fit(x, floc=0)
-    ks_n = stats.kstest(x, "norm", args=(mu, sd))
+    ks_n = stats.kstest(
+    x,
+    lambda value: stats.norm.cdf(value, loc=mu, scale=sd)
+)
     ks_l = stats.kstest(x, "lognorm", args=(shape, loc, scale))
     return {"normal": {"mu": mu, "sigma": sd, "ks_stat": ks_n.statistic, "p_value": ks_n.pvalue},
             "lognormal": {"shape": shape, "loc": loc, "scale": scale, "ks_stat": ks_l.statistic, "p_value": ks_l.pvalue},
